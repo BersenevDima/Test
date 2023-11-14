@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://alyonavolk.github.io/test_de-landingpage_2/",
+  "homepage": "https://bersenevdima.github.io/Test/",
   "scripts": {
     "dev": "webpack serve --open --mode development -c frontend/webpack.config.js",
     "build": "webpack -c frontend/webpack.config.js --mode production",
