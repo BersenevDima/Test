@@ -4,5 +4,3 @@
 
 1. Запустить npm i
 2. Ввести команду npm run dev (для запуска локального сервера) / npm run build (для сборки проекта)
-
-### Результат: alyonavolk.github.io/test_de-landingpage_2
